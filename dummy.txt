@@ -1,1 +1,1 @@
-Commit on 2024-03-05 - Update CORS configuration for frontend domain
+Commit on 2024-03-07 - Fix issue with async/await in course controller
