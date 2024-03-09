@@ -1,1 +1,1 @@
-Commit on 2024-03-07 - Fix issue with async/await in course controller
+Commit on 2024-03-09 - Fix 500 error in enrollment endpoint
