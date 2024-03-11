@@ -1,1 +1,1 @@
-Commit on 2024-03-09 - Fix 500 error in enrollment endpoint
+Commit on 2024-03-11 - Add request validation using express-validator
