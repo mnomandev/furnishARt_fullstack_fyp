@@ -1,1 +1,1 @@
-Commit on 2024-03-12 - Add support for Stripe payment webhook
+Commit on 2024-03-14 - Fix 500 error in enrollment endpoint
