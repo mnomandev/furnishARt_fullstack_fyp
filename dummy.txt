@@ -1,1 +1,1 @@
-Commit on 2024-03-14 - Fix 500 error in enrollment endpoint
+Commit on 2024-03-15 - Add Swagger API documentation
