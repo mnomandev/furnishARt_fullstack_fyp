@@ -1,1 +1,1 @@
-Commit on 2024-03-15 - Add Swagger API documentation
+Commit on 2024-03-21 - Refactor Mongoose models for better reusability
