@@ -1,1 +1,1 @@
-Commit on 2024-03-25 - Fix typo in course schema validation
+Commit on 2024-03-29 - Implement pagination for course list API
