@@ -1,1 +1,1 @@
-Commit on 2024-04-03 - Refactor Express router structure
+Commit on 2024-04-12 - Create seed script for initial database
