@@ -1,1 +1,1 @@
-Commit on 2024-04-14 - Remove unused dependencies from package.json
+Commit on 2024-04-17 - Add Swagger API documentation
