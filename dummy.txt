@@ -1,1 +1,1 @@
-Commit on 2024-05-07 - Optimize MongoDB query for course search
+Commit on 2024-05-08 - Improve server startup logs
