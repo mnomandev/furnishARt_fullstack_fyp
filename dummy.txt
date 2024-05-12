@@ -1,1 +1,1 @@
-Commit on 2024-05-10 - Add test cases using Jest and Supertest
+Commit on 2024-05-12 - Fix undefined user object in request handler
