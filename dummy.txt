@@ -1,1 +1,1 @@
-Commit on 2024-05-12 - Fix undefined user object in request handler
+Commit on 2024-05-14 - Fix bug in password reset logic
