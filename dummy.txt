@@ -1,1 +1,1 @@
-Commit on 2024-05-14 - Fix bug in password reset logic
+Commit on 2024-05-15 - Fix 500 error in enrollment endpoint
