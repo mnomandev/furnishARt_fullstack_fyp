@@ -1,1 +1,1 @@
-Commit on 2024-05-17 - Update dotenv config to load earlier
+Commit on 2024-05-19 - Add user registration endpoint
