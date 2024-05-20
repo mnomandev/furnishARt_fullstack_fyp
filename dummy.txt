@@ -1,1 +1,1 @@
-Commit on 2024-05-19 - Add user registration endpoint
+Commit on 2024-05-20 - Add support for file uploads with Multer
