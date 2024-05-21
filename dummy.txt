@@ -1,1 +1,1 @@
-Commit on 2024-05-20 - Add support for file uploads with Multer
+Commit on 2024-05-21 - Fix token expiration bug in JWT middleware
