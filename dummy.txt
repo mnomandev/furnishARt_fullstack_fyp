@@ -1,1 +1,1 @@
-Commit on 2024-05-31 - Implement error handling middleware
+Commit on 2024-06-03 - Create reusable response wrapper
