@@ -1,1 +1,1 @@
-Commit on 2024-06-07 - Add support for file uploads with Multer
+Commit on 2024-06-09 - Secure API routes with auth middleware
