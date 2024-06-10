@@ -1,1 +1,1 @@
-Commit on 2024-06-09 - Secure API routes with auth middleware
+Commit on 2024-06-10 - Add user registration endpoint
