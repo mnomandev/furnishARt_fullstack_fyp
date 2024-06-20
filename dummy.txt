@@ -1,1 +1,1 @@
-Commit on 2024-06-18 - Fix bug in password reset logic
+Commit on 2024-06-20 - Create seed script for initial database
