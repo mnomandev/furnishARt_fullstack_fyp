@@ -1,1 +1,1 @@
-Commit on 2024-06-22 - Implement error handling middleware
+Commit on 2024-06-25 - Update dotenv config to load earlier
