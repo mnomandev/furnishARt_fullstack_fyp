@@ -1,1 +1,1 @@
-Commit on 2024-07-04 - Add support for file uploads with Multer
+Commit on 2024-07-06 - Fix memory leak in socket connection
