@@ -1,1 +1,1 @@
-Commit on 2024-07-09 - Add email verification on signup
+Commit on 2024-07-10 - Create reusable response wrapper
