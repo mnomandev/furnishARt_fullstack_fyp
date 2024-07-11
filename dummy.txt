@@ -1,1 +1,1 @@
-Commit on 2024-07-10 - Create reusable response wrapper
+Commit on 2024-07-11 - Update dotenv config to load earlier
