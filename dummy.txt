@@ -1,1 +1,1 @@
-Commit on 2024-07-11 - Update dotenv config to load earlier
+Commit on 2024-07-12 - Fix issue with async/await in course controller
