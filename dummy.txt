@@ -1,1 +1,1 @@
-Commit on 2024-07-12 - Fix issue with async/await in course controller
+Commit on 2024-07-14 - Optimize MongoDB query for course search
