@@ -1,1 +1,1 @@
-Commit on 2024-07-20 - Add user registration endpoint
+Commit on 2024-07-21 - Refactor config files for environment separation
