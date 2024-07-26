@@ -1,1 +1,1 @@
-Commit on 2024-07-21 - Refactor config files for environment separation
+Commit on 2024-07-26 - Secure API routes with auth middleware
