@@ -1,1 +1,1 @@
-Commit on 2024-07-26 - Secure API routes with auth middleware
+Commit on 2024-07-30 - Improve performance by indexing email field
