@@ -1,1 +1,1 @@
-Commit on 2024-07-30 - Improve performance by indexing email field
+Commit on 2024-08-03 - Fix memory leak in socket connection
