@@ -1,1 +1,1 @@
-Commit on 2024-08-03 - Fix memory leak in socket connection
+Commit on 2024-08-04 - Refactor config files for environment separation
