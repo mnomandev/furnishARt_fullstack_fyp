@@ -1,1 +1,1 @@
-Commit on 2024-08-13 - Add email verification on signup
+Commit on 2024-08-19 - Optimize MongoDB query for course search
