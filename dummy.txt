@@ -1,1 +1,1 @@
-Commit on 2024-08-19 - Optimize MongoDB query for course search
+Commit on 2024-08-20 - Implement pagination for course list API
