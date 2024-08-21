@@ -1,1 +1,1 @@
-Commit on 2024-08-20 - Implement pagination for course list API
+Commit on 2024-08-21 - Fix database connection retry logic
