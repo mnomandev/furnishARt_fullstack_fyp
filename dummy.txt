@@ -1,1 +1,1 @@
-Commit on 2024-08-21 - Fix database connection retry logic
+Commit on 2024-08-25 - Improve performance by indexing email field
