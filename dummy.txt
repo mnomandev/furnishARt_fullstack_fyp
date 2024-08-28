@@ -1,1 +1,1 @@
-Commit on 2024-08-26 - Fix token expiration bug in JWT middleware
+Commit on 2024-08-28 - Add rate limiting to prevent abuse
