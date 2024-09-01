@@ -1,1 +1,1 @@
-Commit on 2024-08-28 - Add rate limiting to prevent abuse
+Commit on 2024-09-01 - Improve server startup logs
