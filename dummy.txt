@@ -1,1 +1,1 @@
-Commit on 2024-09-06 - Refactor lecture upload service
+Commit on 2024-09-10 - Fix memory leak in socket connection
