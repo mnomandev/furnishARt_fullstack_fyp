@@ -1,1 +1,1 @@
-Commit on 2024-09-27 - Create seed script for initial database
+Commit on 2024-09-28 - Update CORS configuration for frontend domain
