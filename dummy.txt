@@ -1,1 +1,1 @@
-Commit on 2024-10-03 - Fix database connection retry logic
+Commit on 2024-10-04 - Fix issue with async/await in course controller
