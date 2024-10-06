@@ -1,1 +1,1 @@
-Commit on 2024-10-04 - Fix issue with async/await in course controller
+Commit on 2024-10-06 - Improve performance by indexing email field
