@@ -1,1 +1,1 @@
-Commit on 2024-10-06 - Improve performance by indexing email field
+Commit on 2024-10-09 - Refactor Express router structure
