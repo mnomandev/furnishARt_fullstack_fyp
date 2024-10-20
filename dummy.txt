@@ -1,1 +1,1 @@
-Commit on 2024-10-19 - Add Swagger API documentation
+Commit on 2024-10-20 - Refactor lecture upload service
