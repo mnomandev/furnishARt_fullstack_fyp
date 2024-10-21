@@ -1,1 +1,1 @@
-Commit on 2024-10-20 - Refactor lecture upload service
+Commit on 2024-10-21 - Fix undefined user object in request handler
