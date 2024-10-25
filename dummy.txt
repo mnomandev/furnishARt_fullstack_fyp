@@ -1,1 +1,1 @@
-Commit on 2024-10-21 - Fix undefined user object in request handler
+Commit on 2024-10-25 - Add rate limiting to prevent abuse
