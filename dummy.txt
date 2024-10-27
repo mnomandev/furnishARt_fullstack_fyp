@@ -1,1 +1,1 @@
-Commit on 2024-10-26 - Implement pagination for course list API
+Commit on 2024-10-27 - Improve performance by indexing email field
