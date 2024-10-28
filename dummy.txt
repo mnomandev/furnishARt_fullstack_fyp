@@ -1,1 +1,1 @@
-Commit on 2024-10-27 - Improve performance by indexing email field
+Commit on 2024-10-28 - Fix token expiration bug in JWT middleware
