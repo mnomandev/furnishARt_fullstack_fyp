@@ -1,1 +1,1 @@
-Commit on 2024-11-01 - Implement pagination for course list API
+Commit on 2024-11-02 - Update API response structure for consistency
