@@ -1,1 +1,1 @@
-Commit on 2024-11-17 - Update API response structure for consistency
+Commit on 2024-11-19 - Refactor config files for environment separation
