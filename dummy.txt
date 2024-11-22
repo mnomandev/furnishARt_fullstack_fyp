@@ -1,1 +1,1 @@
-Commit on 2024-11-21 - Add user registration endpoint
+Commit on 2024-11-22 - Improve server startup logs
