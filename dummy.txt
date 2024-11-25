@@ -1,1 +1,1 @@
-Commit on 2024-11-23 - Add support for file uploads with Multer
+Commit on 2024-11-25 - Refactor lecture upload service
