@@ -1,1 +1,1 @@
-Commit on 2024-11-25 - Refactor lecture upload service
+Commit on 2024-11-26 - Update CORS configuration for frontend domain
