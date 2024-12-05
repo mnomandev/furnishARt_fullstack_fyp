@@ -1,1 +1,1 @@
-Commit on 2024-11-29 - Refactor Express router structure
+Commit on 2024-12-05 - Create reusable response wrapper
