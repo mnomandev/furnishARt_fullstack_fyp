@@ -1,1 +1,1 @@
-Commit on 2024-12-21 - Refactor config files for environment separation
+Commit on 2024-12-22 - Fix database connection retry logic
