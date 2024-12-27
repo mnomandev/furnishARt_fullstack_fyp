@@ -1,1 +1,1 @@
-Commit on 2024-12-26 - Remove unused dependencies from package.json
+Commit on 2024-12-27 - Fix token expiration bug in JWT middleware
