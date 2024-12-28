@@ -1,1 +1,1 @@
-Commit on 2024-12-27 - Fix token expiration bug in JWT middleware
+Commit on 2024-12-28 - Update API response structure for consistency
