@@ -1,1 +1,1 @@
-Commit on 2024-12-19 - starting project
+Commit on 2025-01-02 - setup project structure
