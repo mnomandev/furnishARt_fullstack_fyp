@@ -1,1 +1,1 @@
-Commit on 2025-01-02 - setup project structure
+Commit on 2025-01-14 - add basic styles
