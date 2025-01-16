@@ -1,1 +1,1 @@
-Commit on 2025-01-10 - Refactor lecture upload service
+Commit on 2025-01-16 - Fix bug in password reset logic
