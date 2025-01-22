@@ -1,1 +1,1 @@
-Commit on 2025-01-21 - Fix undefined user object in request handler
+Commit on 2025-01-22 - Add user registration endpoint
