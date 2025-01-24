@@ -1,1 +1,1 @@
-Commit on 2025-01-22 - Add user registration endpoint
+Commit on 2025-01-24 - Improve performance by indexing email field
