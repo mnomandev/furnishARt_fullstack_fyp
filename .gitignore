@@ -1,0 +1,7 @@
+.env
+pgdata
+desktop.ini
+.github
+.devcontainer
+.contentlayer
+asset-backend
