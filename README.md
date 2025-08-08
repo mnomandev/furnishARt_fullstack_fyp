@@ -1,6 +1,6 @@
 
 
-# furniARt - Augmented Reality-Based Online Furniture Store
+# furniARt FYP - Augmented Reality-Based Online Furniture Store
 
   
 
